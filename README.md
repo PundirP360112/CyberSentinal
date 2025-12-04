@@ -30,12 +30,6 @@ Concurrency: Python threading module for non-blocking simulation
 
 🚀 Installation & Setup
 
-Clone the repository:
-
-git clone [https://github.com/yourusername/cyber-sentinel.git](https://github.com/yourusername/cyber-sentinel.git)
-cd cyber-sentinel
-
-
 Install Dependencies:
 You need customtkinter for the UI and matplotlib for the graphs.
 
